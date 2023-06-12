@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    align-items: center;
+}
+
+.weather {
+    margin: 10em;
+}
